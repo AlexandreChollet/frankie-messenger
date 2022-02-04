@@ -10,6 +10,7 @@ $ npm install
 
 2. Configure :
 
+create an .env file at the root of the project containing those variables :
 ```
 EMAIL=bot_facebook_account_email_address
 PASSWORD=bot_facebook_account_password
